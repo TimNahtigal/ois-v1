@@ -11,8 +11,5 @@ def izpis(visina):
 
 
 print("OIS je zakon!")
-izpis(0.0)
-izpis(10.0)
-izpis(1000.0)
-izpis(10000)
+izpis(int(input("Stevilo ")))
 
